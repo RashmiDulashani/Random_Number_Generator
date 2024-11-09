@@ -1,4 +1,4 @@
-# Random_Number_Generator
+# 🎲 Random_Number_Generator
 
 <p> This project is a simple JavaScript based Random Number Generator that allows users to generate a random number within a specified range. It's a handy tool to understand JavaScript basics and DOM manipulation, making it perfect for beginners looking to get comfortable with core web development concepts! </p>
 
